@@ -1,5 +1,4 @@
 # Smartstudent
-Sure! Here's a sample `README.md` file for your project.
 
 ---
 ![download](https://github.com/user-attachments/assets/68ac6563-5266-4a17-9c04-e938b876a2d3)
